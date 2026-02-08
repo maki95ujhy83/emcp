@@ -10,6 +10,7 @@ docker build -t my-app:61 .
 <summary><b>Log otomatis (klik untuk buka)</b></summary>
 
 <!-- CI-LOG-START -->
+0101 2
 0101 1
 0001 2
 0001 1
